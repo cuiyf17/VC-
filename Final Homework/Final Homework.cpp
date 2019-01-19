@@ -254,6 +254,7 @@ void CFinalHomeworkApp::OnMenuMath3()//点击Cos函数计算弹相应对话框
 	// TODO: 在此添加命令处理程序代码
 	CDialogMath3 DialogMath3;
 	DialogMath3.DoModal();
+	int a;
 }
 
 
